@@ -1,0 +1,15 @@
+package exercicio;
+
+public class TesteRecibo {
+	public static void main(String[] args) {
+		
+		/*
+		 * Bridge
+		 * Objetivo: Separar uma abstração de sua representação, de forma que ambos possam variar e produzir tipos de objetos diferentes.
+		 */
+		
+		GeradorDeArquivo geradorDeArquivoTXT = new GeradorDeArquivoTXT();
+		Recibo recibo = new Recibo(" K19 Treinamentos ", " Marcelo Martins ", 1000, geradorDeArquivoTXT);
+		recibo.geraArquivo();
+	}
+}

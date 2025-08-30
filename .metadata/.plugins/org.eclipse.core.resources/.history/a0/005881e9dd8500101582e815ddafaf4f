@@ -1,0 +1,9 @@
+package exercicio;
+
+public class Recibo implements Documento {
+
+	public void geraArquivo() {
+		
+	}
+
+}

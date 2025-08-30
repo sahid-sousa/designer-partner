@@ -1,0 +1,9 @@
+package exercicio;
+
+public class ReceptorVisa implements Receptor {
+
+	public String recebe() {
+		
+	}
+
+}

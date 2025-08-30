@@ -1,0 +1,8 @@
+package execicio;
+
+public class TestaEmissores {
+	public static void main(String[] args) {
+		Emissor emissor1 = new EmissorSMS();
+		emissor1.envia(" K19 Treinamentos ");
+	}
+}

@@ -1,0 +1,19 @@
+package exercicio;
+
+public class EmissorDecoratorComCompressao extends EmissorDecorator {
+
+	public EmissorDecoratorComCompressao(Emissor emissor) {
+		super(emissor);
+	}
+
+	void envia(String mensagem) {
+		System.out.println("Enviando mensagem criptografada : ");
+		this.getEmissor().envia(criptografa(mensagem));
+	}
+
+	private String criptografa(String mensagem) {
+		String mensagemCriptografada = new StringBuilder(mensagem).reverse().toString();
+		return mensagemCriptografada;
+	}
+
+}

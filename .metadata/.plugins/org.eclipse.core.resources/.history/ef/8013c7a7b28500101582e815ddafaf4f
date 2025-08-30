@@ -1,0 +1,17 @@
+package exercicio;
+
+public class VisaComunicadorFactory implements ComunicadorFactory {
+
+	@Override
+	public Emissor createEmissor() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Receptor createReceptor() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

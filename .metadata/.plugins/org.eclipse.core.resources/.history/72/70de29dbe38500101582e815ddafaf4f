@@ -1,0 +1,11 @@
+package exercicio;
+
+public class EmissorDecoratorComCompressao extends EmissorDecorator {
+
+	public EmissorDecoratorComCompressao(Emissor emissor) {
+		super(emissor);
+	}
+
+
+
+}

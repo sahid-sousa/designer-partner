@@ -1,0 +1,16 @@
+package exercicio;
+
+public class EmissorDecoratorComCompressao extends EmissorDecorator {
+
+	public EmissorDecoratorComCompressao(Emissor emissor) {
+		super(emissor);
+	}
+
+	public void envia(String mensagem) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="execicio.EmissorSMS"/>
+    <fullyQualifiedTypeName name="execicio.EmissorEmail"/>
+    <fullyQualifiedTypeName name="execicio.EmissorJMS"/>
+    <fullyQualifiedTypeName name="exercicio.Receptor"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="exercicio.EmissorMastercard"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="exercicio.ReceptorVisa"/>
+    <fullyQualifiedTypeName name="exercicio.ReceptorMastercard"/>
+    <fullyQualifiedTypeName name="exercicio.ComunicadorFactory"/>
+    <fullyQualifiedTypeName name="exercicio.EmissorCreator"/>
+    <fullyQualifiedTypeName name="exercicio.ReceptorCreator"/>
+    <fullyQualifiedTypeName name="exercicio.VisaComunicadorFactory"/>
+    <fullyQualifiedTypeName name="exercicio.BoletoBuilder"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="exercicio.BBBoletoBuilder"/>
+    <fullyQualifiedTypeName name="exercicio.GeradorDeBoleto"/>
+    <fullyQualifiedTypeName name="exercicio.Campanha"/>
+    <fullyQualifiedTypeName name="exercicio.Configuracao"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="exercicio.ControleDePonto"/>
+    <fullyQualifiedTypeName name="exercicio.ControleDePontoAdapter"/>
+    <fullyQualifiedTypeName name="exercicio.ControleDePontoNovo"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.io.PrintStream"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="exercicio.EmissorDecorator"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,31 @@
+package exercicio;
+
+import java.util.Calendar;
+import java.util.HashSet;
+import java.util.Set;
+
+public class TestaPrototype {
+	public static void main ( String [] args ) {
+		
+		/*
+		 * Prototype
+		 * Objetivo: Possibilitar a criação de novos objetos a partir da cópia de objetos existentes.
+		 * */
+		
+		String nome = "Saldao de Cursos" ;
+		
+		Calendar vencimento = Calendar.getInstance();
+		vencimento.add( Calendar . DATE , 30);
+		
+		Set<String> hashSet = new HashSet<String>();
+		hashSet.add ("curso");
+		hashSet.add ("java");
+		hashSet.add ("k19");
+		
+		Campanha campanha = new Campanha (nome , vencimento , hashSet);
+		System.out.println(campanha);
+		Campanha clone = campanha.clone();
+		System.out.println(clone);
+	}
+
+}

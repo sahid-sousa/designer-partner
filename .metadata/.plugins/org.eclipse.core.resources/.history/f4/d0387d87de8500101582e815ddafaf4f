@@ -1,0 +1,8 @@
+package exercicio;
+
+public class TesteRecibo {
+	public static void main(String[] args) {
+		Recibo recibo = new Recibo("Treinamentos", "M Martins", 1000);
+		recibo.geraArquivo();
+	}
+}
