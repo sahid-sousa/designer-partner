@@ -6,7 +6,8 @@ public class TestaAtualizadorSalarial {
 	public static void main(String[] args) {
 		
 		/*
-		 * 
+		 * Visitor
+		 * Objetivo: Permitir atualizações específicas em uma coleção de objetos de acordo com o tipo particular de cada objeto atualizado.
 		 */
 		
 		List<Departamento> lista = new ArrayList<>();
