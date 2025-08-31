@@ -34,4 +34,7 @@
     <fullyQualifiedTypeName name="exercicio.ListaDeNomes"/>
     <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
     <fullyQualifiedTypeName name="exercicio.CentralDeTaxi"/>
+    <fullyQualifiedTypeName name="exercicio.Taximetro"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="exercicio.Sorter"/>
 </qualifiedTypeNameHistroy>

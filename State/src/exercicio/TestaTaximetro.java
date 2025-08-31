@@ -2,6 +2,12 @@ package exercicio;
 
 public class TestaTaximetro {
 	public static void main(String[] args) {
+		
+		/*
+		 * State
+		 * Objetivo: Alterar o comportamento de um determinado objeto de acordo com o estado no qual ele se encontra.
+		 */
+		
 		Bandeira1 b1 = new Bandeira1();
 		Bandeira2 b2 = new Bandeira2();
 		
