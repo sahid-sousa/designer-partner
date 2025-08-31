@@ -28,4 +28,10 @@
     <fullyQualifiedTypeName name="java.io.PrintStream"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="exercicio.EmissorDecorator"/>
+    <fullyQualifiedTypeName name="exercicio.Player"/>
+    <fullyQualifiedTypeName name="exercicio.TocaMusicaComando"/>
+    <fullyQualifiedTypeName name="exercicio.Comando"/>
+    <fullyQualifiedTypeName name="exercicio.ListaDeNomes"/>
+    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="exercicio.CentralDeTaxi"/>
 </qualifiedTypeNameHistroy>

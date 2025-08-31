@@ -194,3 +194,31 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp
 !MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src [in Command]
   <default> (not open)
   exercicio (not open)". Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2025-08-30 20:30:11.265
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src [in Mediator]
+  <default> (not open)
+  exercicio (not open)". Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2025-08-30 22:57:26.032
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src [in Observer]
+  <default> (not open)
+  exercicio (not open)". Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+!SESSION 2025-08-31 11:55:22.636 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-31 11:55:24.835
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-31 11:55:28.106
+!MESSAGE Logback config file: /home/sahid/Documentos/Aprendizados/DesignerPattern/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.ui.navigator 4 0 2025-08-31 15:50:36.782
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src [in State]
+  <default> (not open)
+  exercicio (not open)". Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
